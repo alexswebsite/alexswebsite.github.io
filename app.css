@@ -3,6 +3,9 @@ h2{
     font-size: 22px;
     color:black;
 }
+.inline{
+    display: inline;
+}
 h1{
     font-family: 'Sacramento';font-size: 45px;
     text-align: center;
