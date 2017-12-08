@@ -2,6 +2,7 @@ h2{
     font-family: 'Sofia';
     font-size: 22px;
     color:black;
+    text-align: center;
 }
 .inline{
     display: inline;
